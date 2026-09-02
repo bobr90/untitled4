@@ -52,7 +52,7 @@ if ($currentHour >= 5 && $currentHour < 12) {
 <body>
 
 <div class="card">
-    <h1><?php echo $greeting; ?>, разработчик! 👋</h1>
+    <h1><?php echo $greeting; ?>, разработчи! 👋</h1>
     <p>Ваш PHP-интерпретатор на Mac успешно работает.</p>
     <p>Текущее время на компьютере: <span class="time"><?php echo date('H:i:s'); ?></span></p>
 </div>
